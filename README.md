@@ -1,6 +1,8 @@
 # Working Weapon Recoil in Unity
 Working Recoil System for 3D Unity FPS
 
+All scripts, from player mouse control, player movement, camera shake, to the actual recoil scripts are found in the Assets folder
+
 Weapon Recoil is implemented quite differently depending on the FPS game in question:
 How recoil may differ depending on the game:
 - How fast recoil ramps up 
