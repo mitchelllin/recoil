@@ -1,4 +1,4 @@
-# recoil
+# Working Weapon Recoil in Unity
 Working Recoil System for 3D Unity FPS
 
 Weapon Recoil is implemented quite differently depending on the FPS game in question:
